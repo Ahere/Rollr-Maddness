@@ -1,0 +1,974 @@
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 610M (ID=0x105a)
+    Vendor:   NVIDIA
+    VRAM:     979 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 1\RollerMadness_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 1\RollerMadness_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 1\RollerMadness_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 1\RollerMadness_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 1\RollerMadness_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 1\RollerMadness_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 1\RollerMadness_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 1\RollerMadness_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 1\RollerMadness_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 1\RollerMadness_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.435 seconds
+Platform assembly: D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 1\RollerMadness_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 1\RollerMadness_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.603214 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3b50 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.127354 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 532.
+Total: 0.781750 ms (FindLiveObjects: 0.091471 ms CreateObjectMapping: 0.045512 ms MarkObjects: 0.614424 ms  DeleteObjects: 0.028557 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.565231 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 1.106588 ms (FindLiveObjects: 0.085225 ms CreateObjectMapping: 0.048636 ms MarkObjects: 0.944169 ms  DeleteObjects: 0.026326 ms)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.052487 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 1.152547 ms (FindLiveObjects: 0.094595 ms CreateObjectMapping: 0.046405 ms MarkObjects: 0.995036 ms  DeleteObjects: 0.014724 ms)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.480789 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 1.006638 ms (FindLiveObjects: 0.093256 ms CreateObjectMapping: 0.041497 ms MarkObjects: 0.858051 ms  DeleteObjects: 0.012939 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.452232 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 1.367171 ms (FindLiveObjects: 0.117351 ms CreateObjectMapping: 0.057114 ms MarkObjects: 1.175749 ms  DeleteObjects: 0.014724 ms)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.728934 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 534.
+Total: 1.177980 ms (FindLiveObjects: 0.081655 ms CreateObjectMapping: 0.046405 ms MarkObjects: 0.933460 ms  DeleteObjects: 0.115120 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.775785 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 1.209215 ms (FindLiveObjects: 0.096826 ms CreateObjectMapping: 0.050867 ms MarkObjects: 1.031625 ms  DeleteObjects: 0.026772 ms)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.738750 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 1.604998 ms (FindLiveObjects: 0.133415 ms CreateObjectMapping: 0.058452 ms MarkObjects: 1.396621 ms  DeleteObjects: 0.015617 ms)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.323780 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 1.169949 ms (FindLiveObjects: 0.105750 ms CreateObjectMapping: 0.046851 ms MarkObjects: 1.003514 ms  DeleteObjects: 0.012493 ms)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.358975 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 1.402421 ms (FindLiveObjects: 0.110212 ms CreateObjectMapping: 0.054883 ms MarkObjects: 1.221262 ms  DeleteObjects: 0.014724 ms)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.335436 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 1.142284 ms (FindLiveObjects: 0.078532 ms CreateObjectMapping: 0.041050 ms MarkObjects: 1.007530 ms  DeleteObjects: 0.013832 ms)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.557872 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 1.377880 ms (FindLiveObjects: 0.126275 ms CreateObjectMapping: 0.069607 ms MarkObjects: 1.164594 ms  DeleteObjects: 0.015170 ms)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.830222 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 1.314965 ms (FindLiveObjects: 0.095041 ms CreateObjectMapping: 0.051759 ms MarkObjects: 1.152100 ms  DeleteObjects: 0.014724 ms)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.566124 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 1.628201 ms (FindLiveObjects: 0.112443 ms CreateObjectMapping: 0.063361 ms MarkObjects: 1.428747 ms  DeleteObjects: 0.016509 ms)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.726092 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 2.073067 ms (FindLiveObjects: 0.139662 ms CreateObjectMapping: 0.066484 ms MarkObjects: 1.848626 ms  DeleteObjects: 0.016509 ms)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.970330 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 1.119528 ms (FindLiveObjects: 0.092810 ms CreateObjectMapping: 0.056221 ms MarkObjects: 0.951754 ms  DeleteObjects: 0.015617 ms)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.215798 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 0.907134 ms (FindLiveObjects: 0.071838 ms CreateObjectMapping: 0.045066 ms MarkObjects: 0.777735 ms  DeleteObjects: 0.010708 ms)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.949249 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 2.034248 ms (FindLiveObjects: 0.147693 ms CreateObjectMapping: 0.076747 ms MarkObjects: 1.781249 ms  DeleteObjects: 0.026772 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.194771 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 1.467121 ms (FindLiveObjects: 0.136092 ms CreateObjectMapping: 0.065592 ms MarkObjects: 1.242234 ms  DeleteObjects: 0.020971 ms)
+

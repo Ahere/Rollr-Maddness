@@ -1,0 +1,302 @@
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 610M (ID=0x105a)
+    Vendor:   NVIDIA
+    VRAM:     979 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 2\RollerMadness_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 2\RollerMadness_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 2\RollerMadness_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 2\RollerMadness_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 2\RollerMadness_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 2\RollerMadness_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 2\RollerMadness_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 2\RollerMadness_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 2\RollerMadness_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 2\RollerMadness_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.287 seconds
+Platform assembly: D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 2\RollerMadness_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 2\RollerMadness_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.197162 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1440 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.631680 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 532.
+Total: 0.516256 ms (FindLiveObjects: 0.046851 ms CreateObjectMapping: 0.021417 ms MarkObjects: 0.428801 ms  DeleteObjects: 0.017848 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.026595 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 534.
+Total: 0.864295 ms (FindLiveObjects: 0.146800 ms CreateObjectMapping: 0.031234 ms MarkObjects: 0.674659 ms  DeleteObjects: 0.010262 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.154268 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 534.
+Total: 0.845108 ms (FindLiveObjects: 0.076746 ms CreateObjectMapping: 0.034803 ms MarkObjects: 0.701431 ms  DeleteObjects: 0.030788 ms)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.322099 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 534.
+Total: 0.730434 ms (FindLiveObjects: 0.069607 ms CreateObjectMapping: 0.031234 ms MarkObjects: 0.619329 ms  DeleteObjects: 0.009370 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.768302 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 534.
+Total: 0.680459 ms (FindLiveObjects: 0.059345 ms CreateObjectMapping: 0.031234 ms MarkObjects: 0.580510 ms  DeleteObjects: 0.007585 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.094031 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 1.006634 ms (FindLiveObjects: 0.075408 ms CreateObjectMapping: 0.043727 ms MarkObjects: 0.864295 ms  DeleteObjects: 0.021417 ms)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.335039 ms
+The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
+ 
+(Filename:  Line: 1927)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 401)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 577.
+Total: 0.577386 ms (FindLiveObjects: 0.047743 ms CreateObjectMapping: 0.021417 ms MarkObjects: 0.499747 ms  DeleteObjects: 0.007139 ms)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
+Mesh particle system has too many vertices - some particles will be ignored
+ 
+(Filename:  Line: 490)
+
