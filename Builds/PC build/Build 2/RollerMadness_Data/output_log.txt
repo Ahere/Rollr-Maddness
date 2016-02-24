@@ -16,33 +16,27 @@ Platform assembly: D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC b
 Loading D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 2\RollerMadness_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 2\RollerMadness_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 2\RollerMadness_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.287 seconds
+- Completed reload, in  0.284 seconds
 Platform assembly: D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 2\RollerMadness_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\projects\Unity\Cousera Projects\Rollr Maddness\Builds\PC build\Build 2\RollerMadness_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.197162 ms
+UnloadTime: 0.934835 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1440 -> priority: 1 
+  Thread -> id: 454 -> priority: 1 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.631680 ms
+UnloadTime: 6.938758 ms
 
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 532.
-Total: 0.516256 ms (FindLiveObjects: 0.046851 ms CreateObjectMapping: 0.021417 ms MarkObjects: 0.428801 ms  DeleteObjects: 0.017848 ms)
+Total: 0.408293 ms (FindLiveObjects: 0.043283 ms CreateObjectMapping: 0.017402 ms MarkObjects: 0.332881 ms  DeleteObjects: 0.013386 ms)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.026595 ms
+UnloadTime: 2.718833 ms
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 534.
-Total: 0.864295 ms (FindLiveObjects: 0.146800 ms CreateObjectMapping: 0.031234 ms MarkObjects: 0.674659 ms  DeleteObjects: 0.010262 ms)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.154268 ms
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 534.
-Total: 0.845108 ms (FindLiveObjects: 0.076746 ms CreateObjectMapping: 0.034803 ms MarkObjects: 0.701431 ms  DeleteObjects: 0.030788 ms)
+Total: 0.782674 ms (FindLiveObjects: 0.078535 ms CreateObjectMapping: 0.032128 ms MarkObjects: 0.662194 ms  DeleteObjects: 0.008924 ms)
 
 Mesh particle system has too many vertices - some particles will be ignored
  
@@ -125,19 +119,13 @@ Mesh particle system has too many vertices - some particles will be ignored
 (Filename:  Line: 490)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.322099 ms
+UnloadTime: 1.842006 ms
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 534.
-Total: 0.730434 ms (FindLiveObjects: 0.069607 ms CreateObjectMapping: 0.031234 ms MarkObjects: 0.619329 ms  DeleteObjects: 0.009370 ms)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.768302 ms
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 534.
-Total: 0.680459 ms (FindLiveObjects: 0.059345 ms CreateObjectMapping: 0.031234 ms MarkObjects: 0.580510 ms  DeleteObjects: 0.007585 ms)
+Total: 0.812124 ms (FindLiveObjects: 0.083443 ms CreateObjectMapping: 0.032128 ms MarkObjects: 0.684951 ms  DeleteObjects: 0.009816 ms)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.094031 ms
+UnloadTime: 1.259685 ms
 The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
  
 (Filename:  Line: 1927)
@@ -148,7 +136,7 @@ Default clip could not be found in attached animations list.
 
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 577.
-Total: 1.006634 ms (FindLiveObjects: 0.075408 ms CreateObjectMapping: 0.043727 ms MarkObjects: 0.864295 ms  DeleteObjects: 0.021417 ms)
+Total: 0.498876 ms (FindLiveObjects: 0.085228 ms CreateObjectMapping: 0.018741 ms MarkObjects: 0.381966 ms  DeleteObjects: 0.011155 ms)
 
 Mesh particle system has too many vertices - some particles will be ignored
  
@@ -157,80 +145,6 @@ Mesh particle system has too many vertices - some particles will be ignored
 Mesh particle system has too many vertices - some particles will be ignored
  
 (Filename:  Line: 490)
-
-Mesh particle system has too many vertices - some particles will be ignored
- 
-(Filename:  Line: 490)
-
-Mesh particle system has too many vertices - some particles will be ignored
- 
-(Filename:  Line: 490)
-
-Mesh particle system has too many vertices - some particles will be ignored
- 
-(Filename:  Line: 490)
-
-Mesh particle system has too many vertices - some particles will be ignored
- 
-(Filename:  Line: 490)
-
-Mesh particle system has too many vertices - some particles will be ignored
- 
-(Filename:  Line: 490)
-
-Mesh particle system has too many vertices - some particles will be ignored
- 
-(Filename:  Line: 490)
-
-Mesh particle system has too many vertices - some particles will be ignored
- 
-(Filename:  Line: 490)
-
-Mesh particle system has too many vertices - some particles will be ignored
- 
-(Filename:  Line: 490)
-
-Mesh particle system has too many vertices - some particles will be ignored
- 
-(Filename:  Line: 490)
-
-Mesh particle system has too many vertices - some particles will be ignored
- 
-(Filename:  Line: 490)
-
-Mesh particle system has too many vertices - some particles will be ignored
- 
-(Filename:  Line: 490)
-
-Mesh particle system has too many vertices - some particles will be ignored
- 
-(Filename:  Line: 490)
-
-Mesh particle system has too many vertices - some particles will be ignored
- 
-(Filename:  Line: 490)
-
-Mesh particle system has too many vertices - some particles will be ignored
- 
-(Filename:  Line: 490)
-
-Mesh particle system has too many vertices - some particles will be ignored
- 
-(Filename:  Line: 490)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.335039 ms
-The AnimationClip 'Shake Animation' used by the Animation component 'Floor' must be marked as Legacy.
- 
-(Filename:  Line: 1927)
-
-Default clip could not be found in attached animations list.
- 
-(Filename:  Line: 401)
-
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 577.
-Total: 0.577386 ms (FindLiveObjects: 0.047743 ms CreateObjectMapping: 0.021417 ms MarkObjects: 0.499747 ms  DeleteObjects: 0.007139 ms)
 
 Mesh particle system has too many vertices - some particles will be ignored
  
